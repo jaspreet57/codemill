@@ -13,7 +13,7 @@ int gcd(int m, int n){
 		return gcd(n%m, m);	
 	}
 }
-
+  
 int gcdInLoops(int m, int n){
 	int r = 0;
 	while (n%m == 0){
