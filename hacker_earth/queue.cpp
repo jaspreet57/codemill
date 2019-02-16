@@ -8,6 +8,18 @@ using namespace std;
  * https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial
  */
 
+/**
+*	Sample Input:
+
+5
+E 2
+D
+D
+E 3
+D
+
+*/
+
 void setFileStreams(){
 	#ifndef ONLINE_JUDGE
 		// for getting input from input.txt
